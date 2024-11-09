@@ -37,7 +37,7 @@ To the best of the knowledge, no work experimented with concatenating sentiment 
 
 ## Affect of Each Sentiment
 ![sentis_affect](figures/sentis_affect)
-> Negative sentiment has the most effect even though [most sample are Neutral sentiment.](https://github.com/KhondokerIslam/senti-affects-olid/edit/main/README.md#pps-distribution)
+> Negative sentiment has the most effect even though [most sample are Neutral sentiment.](https://github.com/KhondokerIslam/senti-affects-olid/tree/main?tab=readme-ov-file#pps-distribution)
 
 ## Reference
 > If this repo comes to your any help, leave by a star *so that I know the senti effect ;)*
