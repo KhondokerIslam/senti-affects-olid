@@ -14,10 +14,10 @@ To the best of the knowledge, no work experimented with concatenating sentiment 
 [deberta-v3-ft-financial-news-sentiment-analysis](https://huggingface.co/mrm8488/deberta-v3-ft-financial-news-sentiment-analysis)
 
 ## Dataset After Prepending Predicted Sentiment (*PPS*)
-![modified_dataset_sample](figures/sample_dataset)
+![modified_dataset_sample](figures/sample_dataset.jpg)
 
 ## *PPS* Distribution
-![pps_dis](figures/pps_dis)
+![pps_dis](figures/pps_dis.png)
 > High Neutral sentiment due to [over-numbered non-offensive text (NOT)](https://aclanthology.org/S19-2010/)
 
 ## Baseline Models & Performance
@@ -36,7 +36,7 @@ To the best of the knowledge, no work experimented with concatenating sentiment 
 > DeBERTa+*PPS* improves better NOT classification.
 
 ## Affect of Each Sentiment
-![sentis_affect](figures/sentis_affect)
+![sentis_affect](figures/sentis_affect.png)
 > Negative sentiment has the most effect even though [most sample are Neutral sentiment.](https://github.com/KhondokerIslam/senti-affects-olid/tree/main?tab=readme-ov-file#pps-distribution)
 
 ## Reference
