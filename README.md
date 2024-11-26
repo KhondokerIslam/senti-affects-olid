@@ -32,7 +32,7 @@ To the best of the knowledge, no work experimented with concatenating sentiment 
 
 ## Error Analysis
 ### Confusion Matrix: DeBERTa vs DeBERTa+*PPS*
-![deberta_vs_pps](figures/deberta_vs_w_pps)
+![deberta_vs_pps](figures/deberta_vs_w_pps.png)
 > DeBERTa+*PPS* improves better NOT classification.
 
 ## Affect of Each Sentiment
