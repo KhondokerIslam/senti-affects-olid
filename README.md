@@ -1,5 +1,5 @@
 # Leveraging Sentiment for Offensive Text Classification
-This repository contains all research steps (with relavent codes) to determine if leveraging sentiment improves model performance on the OLID dataset.
+This repository contains all research steps (with relavent codes) to determine [if leveraging sentiment improves model performance on the OLID dataset](https://arxiv.org/pdf/2412.17825).
 
 ## Hypothesis
 *Does utilizing respective sentiment improves models performance on offensive text classification task?*
